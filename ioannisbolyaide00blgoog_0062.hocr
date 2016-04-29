@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioannisbolyaide00blgoog_0062.png"; bbox 0 0 1350 1725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 898 215 1069 236">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 898 215 1069 236">
+     <span class='ocr_line' id='line_1_1' title="bbox 898 215 1069 236; baseline -0.012 -5"><span class='ocrx_word' id='word_1_1' title='bbox 898 216 939 231; x_wconf 68' lang='lat' dir='ltr'>Tab.</span> <span class='ocrx_word' id='word_1_2' title='bbox 946 216 968 231; x_wconf 68' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_3' title='bbox 977 216 995 231; x_wconf 84' lang='lat' dir='ltr'>Fi</span> <span class='ocrx_word' id='word_1_4' title='bbox 999 217 1013 236; x_wconf 63' lang='grc' dir='ltr'>ἑ.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1020 215 1069 230; x_wconf 67' lang='grc' dir='ltr'>11ἸόΔ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 976 1591 1244 1649">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 976 1591 1244 1649">
+     <span class='ocr_line' id='line_1_2' title="bbox 976 1591 1244 1649; baseline -0.004 -17"><span class='ocrx_word' id='word_1_6' title='bbox 976 1615 1041 1632; x_wconf 39' lang='lat' dir='ltr'>Home&amp;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1051 1591 1244 1649; x_wconf 48' lang='lat' dir='ltr'>mGoogle</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

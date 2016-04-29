@@ -1,0 +1,58 @@
+BIBLIOGRAPHIC RECORD TARGET
+
+Graduate Library
+University of Michigan
+
+Preservafion Office
+
+Storage Number:
+
+ACA7848
+
+UL FMT B RT a BL m TsC DT O9s12s88 RJDT 09s12s88 CC STAT mm EJL 1
+
+010: 1 Ι a 04022899
+
+035 s 1: ε {a (RLIN)MIUG86-13110898
+
+035l2: z Ι a (CaOTULAS)160330429
+
+040211cMiU1dMiU
+
+050l1201 1aQA685 lb ‚1368
+
+1⁰02] z la Bblyai'Jainosl ld 1802-1860.
+
+245ιοοι {a Ioannis Bolyai' de Bolya Appendix scientiam spatii absolute veram
+exhibens: Ι b a veritate aut falsitate axiomatis ΧΙ. ειιεῌάεί, a prior haud.
+unquam decidenda! independentem: adiecta ad casum falsitatis quadratura circuli
+geometrica*
+
+250: ι Ι a Edit-io nova oblata ab Academia scientarum hungarica ad diem natalem
+centesimum auctoris concelebrandum. lb Editerun't Iosephus Kfirschfikl Mauritius
+Rethy, Bela Totfissy de Zepethnek.
+
+260: : la Budapestinil lb sumptibus Academiae scient-iarum hungaricae! lc 1903.
+
+300s1: : {a 4 p. Ιώ, 40 p. lb diagrs. on 7 sold.. pl. lc 29 x 23 cm.
+
+504l1: ῑ [a ''Wolfgangi Bolyai additamentum ad Appendicem'': p. [351-38.
+
+650J1: 0: {a Geometryl Non-Euclidean
+
+700] 1:1 : {a Kfirsclmk, J6zsef‘ ld 1864-1933. {e ed.
+
+700s2:1 : {a Rethy‘ M6ricz‘ Ι d. 1846-1925. [e ed.
+
+Scanned by Imagenes Digitales
+Nogales, ΑΖ
+
+On behalf of
+Preservation Division
+The University of Michigan Libraries
+
+Date work Began:
+Camere Operatur:
+
+ 
+
